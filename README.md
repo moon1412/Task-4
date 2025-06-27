@@ -1,5 +1,6 @@
 # Task-4
 Dataset: Pizza Sales Dataset
+
 I applied some SQL queries to identify:  
 -The total numbers of orders placed.
 - The total revenue generated from pizza sales.
@@ -10,3 +11,4 @@ I applied some SQL queries to identify:
 - Revenue by category
 
 Tools used: MySQL Workbench
+Name: Gayatri Sukhe
